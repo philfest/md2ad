@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Convert markdown-to-asciidoc",
+        "command": "markdown-to-asciidoc:convert"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "markdown-to-asciidoc",
+          "submenu": [
+            {
+              "label": "Convert",
+              "command": "markdown-to-asciidoc:convert"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

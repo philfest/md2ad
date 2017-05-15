@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-c": "markdown-to-asciidoc:convert"
+  }
+}
