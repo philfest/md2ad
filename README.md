@@ -5,4 +5,5 @@ Plugin for Atom that converts a markdown file to asciidoc. Leverages the java mo
 First conversion is costly because the java runtime needs to initialize.
 
 [1]https://github.com/bodiam/markdown-to-asciidoc
+
 [2]https://github.com/joeferner/node-java
