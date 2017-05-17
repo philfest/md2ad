@@ -1,9 +1,13 @@
 {
   "name": "markdown-to-asciidoc",
   "main": "./lib/markdown-to-asciidoc",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A wrapper of the IntelliJ markdown-to-asciidoc plugin. The first conversion after starting Atom takes time (~20s) due to the jvm initializing.",
-  "keywords": ["markdown","asciidoc","convert"],
+  "keywords": [
+    "markdown",
+    "asciidoc",
+    "convert"
+  ],
   "activationCommands": {
     "atom-workspace": "markdown-to-asciidoc:convert"
   },
