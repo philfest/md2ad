@@ -2,12 +2,12 @@
   "name": "markdown-to-asciidoc",
   "main": "./lib/markdown-to-asciidoc",
   "version": "0.0.0",
-  "description": "A port of the IntelliJ markdown-to-asciidoc plugin. Uses node-java for node.js as the bridge.",
+  "description": "A wrapper for the IntelliJ markdown-to-asciidoc plugin. Uses node-java as the bridge to the converter class.",
   "keywords": ["markdown","asciidoc","convert"],
   "activationCommands": {
     "atom-workspace": "markdown-to-asciidoc:convert"
   },
-  "repository": "https://github.com/atom/markdown-to-asciidoc",
+  "repository": "https://github.com/philfest/md2ad",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
