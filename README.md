@@ -1,8 +1,8 @@
 # markdown-to-asciidoc package
 
-Plugin for Atom that converts a markdown file to asciidoc. Leverages the java module for node.js by joeferner[1] to call markdown-to-asciidoc Java library written by bodian[2].
+A plugin for Atom that converts markdown to asciidoc. Leverages the java module for node.js by joeferner[1] to call the markdown-to-asciidoc Java library written by bodian[2].
 
-First conversion is costly because the java runtime needs to initialize.
+The first conversion will take much longer than subsequent conversions due to the overhead incurred by initializing the Java runtime.
 
 [1]https://github.com/joeferner/node-java
 
