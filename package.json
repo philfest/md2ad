@@ -1,7 +1,7 @@
 {
   "name": "markdown-to-asciidoc",
   "main": "./lib/markdown-to-asciidoc",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A wrapper of the IntelliJ markdown-to-asciidoc plugin. Uses the node-java module for node.js as the bridge. The first conversion after starting Atom takes time (~20s) due to the jvm initializing.",
   "keywords": [
     "markdown",
