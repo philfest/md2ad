@@ -1,7 +1,7 @@
 {
   "name": "markdown-to-asciidoc",
   "main": "./lib/markdown-to-asciidoc",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "A wrapper of the IntelliJ markdown-to-asciidoc plugin. Uses node-java for node.js as the bridge.",
   "keywords": [
     "markdown",
