@@ -1,12 +1,4 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Convert markdown-to-asciidoc",
-        "command": "markdown-to-asciidoc:convert"
-      }
-    ]
-  },
   "menu": [
     {
       "label": "Packages",
