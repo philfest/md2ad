@@ -2,7 +2,7 @@
   "name": "markdown-to-asciidoc",
   "main": "./lib/markdown-to-asciidoc",
   "version": "0.7.0",
-  "description": "A wrapper of the IntelliJ markdown-to-asciidoc plugin. Uses node-java for node.js as the bridge.",
+  "description": "An Atom plugin for converting a markdown file to asciidoc. Wraps the markdown-to-asciidoc plugin for the IntelliJ Java IDE. Uses node-java as the node.js bridge to the Java converter class.",
   "keywords": [
     "markdown",
     "asciidoc",
